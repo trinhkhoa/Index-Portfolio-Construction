@@ -478,7 +478,7 @@ ax3.set_title('Variance vs q', fontsize = 15)
 
 plt.show()
 ```
-![Screenshot](screenshot.png)
+![Screenshot](var.avif)
 ```python
 #Schwab 500 Index Fund
 
